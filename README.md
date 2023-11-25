@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @princekr14
+- 👋 Hi, I’m Prince Kumar
 - 👀 I’m interested in Development and AI-ML.
 - 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on linkedin
 
 <!---
