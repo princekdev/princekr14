@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and AI-ML.
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 Conntact me linkedin.com/in/princekr14
+- 📫 Reach me on linkedin
 
 <!---
 princekr14/princekr14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
